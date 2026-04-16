@@ -21,3 +21,8 @@ grep "Failed password" $LOG | awk '{print $(NF-3)}' | sort | uniq -c | sort -nr 
 
 echo "--------------------------------------------------"
 echo "Análisis finalizado."
+
+echo "--------------------------------------------------"
+echo "🚨 ALERTA: IPs con más de 5 intentos fallidos"
+
+grep "Failed password" $LOG | awk '{print $(NF-3)}' | sort | uniq -c | awk '$1 > 5'
