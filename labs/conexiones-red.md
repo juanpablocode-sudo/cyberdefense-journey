@@ -20,3 +20,9 @@ netstat -tuln
 ## 🔐 Aplicación en seguridad
 
 Permite detectar conexiones sospechosas o servicios vulnerables.
+
+## 🔗 Script utilizado
+
+Script para monitorear conexiones activas:
+
+../scripts/monitor-conexiones.sh
