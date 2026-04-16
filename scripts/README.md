@@ -12,3 +12,15 @@ chmod +x monitor-procesos.sh
 ### Objetivo
 
 Automatizar tareas de análisis del sistema.
+
+## 🔍 scan-puertos.sh
+
+Detecta puertos abiertos en el sistema.
+
+## 🌐 monitor-conexiones.sh
+
+Muestra conexiones activas y establecidas.
+
+## 🚨 procesos-sospechosos.sh
+
+Identifica procesos con alto consumo de recursos.
