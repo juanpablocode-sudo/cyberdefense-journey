@@ -26,3 +26,7 @@ Se identificaron múltiples procesos del sistema.
 ## 🧠 Conclusión
 
 El análisis de procesos permite detectar actividad sospechosa en el sistema.
+
+## 🔗 Script utilizado
+
+[Ver script de análisis de procesos](../scripts/procesos-sospechosos.sh)
