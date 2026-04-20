@@ -29,3 +29,17 @@ Desarrollar habilidades en razonamiento lógico y resolución de problemas.
 ## 🚀 En progreso
 
 Se incluirán ejemplos de lógica aplicada a sistemas reales.
+
+## 📘 Contenido
+
+- Lógica booleana  
+- Sistemas de ecuaciones  
+- Aplicaciones en criptografía  
+- Ejercicios resueltos  
+
+## 🔐 Aplicación en ciberseguridad
+
+El álgebra es base para:
+- criptografía  
+- algoritmos  
+- validaciones lógicas  
