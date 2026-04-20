@@ -29,3 +29,17 @@ Desarrollar pensamiento analítico y capacidad de modelar problemas matemáticam
 ## 🚀 En progreso
 
 Se agregarán ejemplos aplicados a seguridad informática.
+## 📘 Contenido
+
+- Límites  
+- Derivadas  
+- Crecimiento exponencial  
+- Ejercicios resueltos  
+
+## 🔐 Aplicación en ciberseguridad
+
+El análisis matemático permite:
+
+- Modelar comportamiento de sistemas  
+- Detectar anomalías  
+- Analizar crecimiento de ataques  
