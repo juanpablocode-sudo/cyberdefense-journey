@@ -7,6 +7,7 @@ Una función exponencial crece rápidamente en el tiempo.
 ## 📌 Ejemplo
 
 f(x) = 2^x
+f(x)=2^x
 
 ## 💻 Aplicación
 
