@@ -29,3 +29,13 @@ Desarrollar habilidades para leer, interpretar y utilizar documentación técnic
 ## 🚀 En progreso
 
 Se agregarán análisis de vulnerabilidades reales en inglés.
+
+## 📘 Contenido
+
+- Vocabulario técnico de ciberseguridad  
+- Análisis de logs reales  
+- Frases comunes en seguridad  
+
+## 🎯 Objetivo
+
+Comprender documentación técnica en inglés y aplicar conceptos en escenarios reales.
