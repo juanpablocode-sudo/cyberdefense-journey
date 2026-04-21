@@ -1,13 +1,18 @@
-# 🧪 Lab 1: Procesos en Linux
+# ⚙️ Lab: Análisis de procesos
 
-## Objetivo
-Analizar procesos activos en el sistema
+## 🎯 Objetivo
 
-## Comando usado
+Analizar procesos activos en el sistema Linux.
+
+## 🛠️ Comandos utilizados
+
 ps aux
+top
 
-## Resultado
-Se listan todos los procesos activos
+## 🔍 Análisis
 
-## Conclusión
-Permite detectar procesos sospechosos
+Se observan procesos del sistema y del usuario.
+
+## 🔐 En ciberseguridad
+
+Permite detectar procesos sospechosos o malware.
