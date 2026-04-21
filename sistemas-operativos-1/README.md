@@ -1,9 +1,19 @@
 # 🖥️ Sistemas Operativos I
 
-Contenido de la materia enfocado en ciberseguridad.
+## 🎯 Objetivo
 
-## Temas
-- Procesos
-- Memoria
-- Sistema de archivos
-- Permisos en Linux
+Comprender el funcionamiento interno de sistemas operativos con enfoque en ciberseguridad.
+
+## 📘 Contenido
+
+- Procesos  
+- Memoria  
+- Sistema de archivos  
+- Permisos  
+- Redes  
+
+## 🔐 Aplicación en ciberseguridad
+
+- Análisis de procesos sospechosos  
+- Detección de actividad maliciosa  
+- Auditoría de permisos  
